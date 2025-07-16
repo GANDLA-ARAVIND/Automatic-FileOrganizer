@@ -1,0 +1,42 @@
+{
+    "categories": {
+        ".pdf": "Documents",
+        ".doc": "Documents",
+        ".docx": "Documents",
+        ".txt": "Documents",
+        ".jpg": "Images",
+        ".jpeg": "Images",
+        ".png": "Images",
+        ".gif": "Images",
+        ".mp4": "Videos",
+        ".mkv": "Videos",
+        ".avi": "Videos",
+        ".zip": "Archives",
+        ".rar": "Archives",
+        ".py": "Code",
+        ".java": "Code",
+        ".cpp": "Code"
+    },
+    "monitored_folders": [
+        "C:\\Users\\Dell\\Downloads\\file-organizer\\test",
+        "C:\\Users\\Dell\\OneDrive\\Desktop\\test",
+        "C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh"
+    ],
+    "startup_enabled": false,
+    "appearance_mode": "system",
+    "organize_by_date": 1,
+    "folder_settings": {
+        "C:/Users/Dell/Downloads/file-organizer/test": {
+            "recursive": true,
+            "exclusions": []
+        },
+        "C:/Users/Dell/OneDrive/Desktop/test": {
+            "recursive": true,
+            "exclusions": []
+        },
+        "C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh": {
+            "recursive": true,
+            "exclusions": []
+        }
+    }
+}

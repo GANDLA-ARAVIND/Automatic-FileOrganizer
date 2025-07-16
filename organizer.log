@@ -1,0 +1,755 @@
+2025-07-16 20:37:11,908 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 2 monitored folders
+2025-07-16 20:37:11,908 - INFO - Configuration loaded successfully
+2025-07-16 20:37:11,962 - INFO - Start on Boot checkbox initialized
+2025-07-16 20:37:11,965 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 20:37:11,966 - INFO - Applied appearance mode: dark
+2025-07-16 20:37:11,986 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 20:37:11,986 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 20:37:11,986 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 20:37:11,988 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 20:37:11,988 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 20:37:11,988 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 20:37:11,988 - INFO - Successfully loaded my_icon.png
+2025-07-16 20:37:11,989 - INFO - System tray icon created
+2025-07-16 20:37:11,997 - DEBUG - Importing AvifImagePlugin
+2025-07-16 20:37:12,005 - DEBUG - Importing BlpImagePlugin
+2025-07-16 20:37:12,006 - INFO - Created folder C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 20:37:12,007 - DEBUG - Importing BmpImagePlugin
+2025-07-16 20:37:12,007 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 20:37:12,008 - DEBUG - Importing CurImagePlugin
+2025-07-16 20:37:12,009 - DEBUG - Importing DcxImagePlugin
+2025-07-16 20:37:12,010 - DEBUG - Importing DdsImagePlugin
+2025-07-16 20:37:12,013 - DEBUG - Importing EpsImagePlugin
+2025-07-16 20:37:12,015 - DEBUG - Importing FitsImagePlugin
+2025-07-16 20:37:12,017 - DEBUG - Importing FliImagePlugin
+2025-07-16 20:37:12,018 - DEBUG - Importing FpxImagePlugin
+2025-07-16 20:37:12,020 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 20:37:12,020 - DEBUG - Importing FtexImagePlugin
+2025-07-16 20:37:12,021 - DEBUG - Importing GbrImagePlugin
+2025-07-16 20:37:12,022 - DEBUG - Importing GifImagePlugin
+2025-07-16 20:37:12,022 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 20:37:12,024 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 20:37:12,025 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 20:37:12,029 - DEBUG - Importing IcoImagePlugin
+2025-07-16 20:37:12,030 - DEBUG - Importing ImImagePlugin
+2025-07-16 20:37:12,032 - DEBUG - Importing ImtImagePlugin
+2025-07-16 20:37:12,033 - DEBUG - Importing IptcImagePlugin
+2025-07-16 20:37:12,034 - DEBUG - Importing JpegImagePlugin
+2025-07-16 20:37:12,034 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 20:37:12,034 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 20:37:12,035 - DEBUG - Importing MicImagePlugin
+2025-07-16 20:37:12,036 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 20:37:12,036 - DEBUG - Importing MpegImagePlugin
+2025-07-16 20:37:12,038 - DEBUG - Importing MpoImagePlugin
+2025-07-16 20:37:12,046 - DEBUG - Importing MspImagePlugin
+2025-07-16 20:37:12,048 - DEBUG - Importing PalmImagePlugin
+2025-07-16 20:37:12,050 - DEBUG - Importing PcdImagePlugin
+2025-07-16 20:37:12,051 - DEBUG - Importing PcxImagePlugin
+2025-07-16 20:37:12,051 - DEBUG - Importing PdfImagePlugin
+2025-07-16 20:37:12,057 - DEBUG - Importing PixarImagePlugin
+2025-07-16 20:37:12,058 - DEBUG - Importing PngImagePlugin
+2025-07-16 20:37:12,058 - DEBUG - Importing PpmImagePlugin
+2025-07-16 20:37:12,058 - DEBUG - Importing PsdImagePlugin
+2025-07-16 20:37:12,059 - DEBUG - Importing QoiImagePlugin
+2025-07-16 20:37:12,060 - DEBUG - Importing SgiImagePlugin
+2025-07-16 20:37:12,062 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 20:37:12,063 - DEBUG - Importing SunImagePlugin
+2025-07-16 20:37:12,063 - DEBUG - Importing TgaImagePlugin
+2025-07-16 20:37:12,064 - DEBUG - Importing TiffImagePlugin
+2025-07-16 20:37:12,064 - DEBUG - Importing WebPImagePlugin
+2025-07-16 20:37:12,070 - DEBUG - Importing WmfImagePlugin
+2025-07-16 20:37:12,070 - DEBUG - Importing XbmImagePlugin
+2025-07-16 20:37:12,072 - DEBUG - Importing XpmImagePlugin
+2025-07-16 20:37:12,073 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 20:37:12,120 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:37:12,121 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:37:12,134 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:37:12,135 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:37:46,590 - INFO - Saved config to C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json
+2025-07-16 20:37:46,608 - INFO - File organizer handler stopped for C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 20:37:46,624 - INFO - File organizer handler stopped for C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:37:46,624 - INFO - Stopped all file watchers
+2025-07-16 20:37:46,631 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:37:46,633 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:37:46,651 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:37:46,652 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:37:46,659 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/testfresh (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:37:46,661 - INFO - Started file watcher for C:/Users/Dell/Downloads/testfresh (recursive=True)
+2025-07-16 20:39:26,997 - INFO - Saved config to C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json
+2025-07-16 20:39:27,017 - INFO - File organizer handler stopped for C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 20:39:27,033 - INFO - File organizer handler stopped for C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:39:27,048 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/testfresh
+2025-07-16 20:39:27,048 - INFO - Stopped all file watchers
+2025-07-16 20:39:27,054 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:39:27,055 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:39:27,067 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:39:27,069 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:39:27,075 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/testfresh (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:39:27,075 - INFO - Started file watcher for C:/Users/Dell/Downloads/testfresh (recursive=True)
+2025-07-16 20:39:27,082 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:39:27,083 - INFO - Started file watcher for C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh (recursive=True)
+2025-07-16 20:39:36,868 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\tillu.jpg, is_directory=False
+2025-07-16 20:39:36,868 - INFO - Detected create event for tillu.jpg in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh
+2025-07-16 20:39:36,868 - INFO - Processing tillu.jpg: current=c:\users\dell\downloads\fileorganizer_fresh\testfresh, expected=c:\users\dell\downloads\fileorganizer_fresh\testfresh\images, root=c:\users\dell\downloads\fileorganizer_fresh\testfresh
+2025-07-16 20:39:36,869 - INFO - Moved tillu.jpg to C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16\tillu.jpg
+2025-07-16 20:39:36,874 - DEBUG - Successfully processed tillu.jpg: Moved tillu.jpg to Images/2025-07-16
+2025-07-16 20:39:36,874 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images, is_directory=True
+2025-07-16 20:39:36,883 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16, is_directory=True
+2025-07-16 20:39:36,889 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16, is_directory=True
+2025-07-16 20:39:36,898 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images, is_directory=True
+2025-07-16 20:39:36,898 - DEBUG - Received event: type=deleted, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\tillu.jpg, is_directory=False
+2025-07-16 20:39:36,898 - DEBUG - Tracked deletion of tillu.jpg for rename detection
+2025-07-16 20:39:36,898 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16\tillu.jpg, is_directory=False
+2025-07-16 20:39:36,899 - INFO - Detected create event for tillu.jpg in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16
+2025-07-16 20:39:36,899 - INFO - Skipped tillu.jpg: already in correct folder Images
+2025-07-16 20:39:36,906 - DEBUG - Successfully processed tillu.jpg: Skipped tillu.jpg: already in correct folder Images
+2025-07-16 20:39:36,906 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Images\2025-07-16, is_directory=True
+2025-07-16 20:40:02,182 - DEBUG - Received event: type=moved, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\aravind.jpg, is_directory=False
+2025-07-16 20:40:02,182 - DEBUG - Processing moved event: src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\aravind.jpg, dest_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\aravind.pdf, is_directory=False
+2025-07-16 20:40:02,182 - INFO - Detected rename event for aravind.pdf (from aravind.jpg) in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh
+2025-07-16 20:40:02,182 - DEBUG - Attempt 1: Checking file C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\aravind.pdf
+2025-07-16 20:40:02,182 - INFO - Processing aravind.pdf: current=c:\users\dell\downloads\fileorganizer_fresh\testfresh, expected=c:\users\dell\downloads\fileorganizer_fresh\testfresh\documents, root=c:\users\dell\downloads\fileorganizer_fresh\testfresh
+2025-07-16 20:40:02,184 - INFO - Moved aravind.pdf to C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.pdf
+2025-07-16 20:40:02,191 - DEBUG - Successfully processed aravind.pdf: Renamed aravind.jpg to aravind.pdf: Moved aravind.pdf to Documents/2025-07-16
+2025-07-16 20:40:02,191 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents, is_directory=True
+2025-07-16 20:40:02,198 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16, is_directory=True
+2025-07-16 20:40:02,207 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16, is_directory=True
+2025-07-16 20:40:02,220 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents, is_directory=True
+2025-07-16 20:40:02,220 - DEBUG - Received event: type=deleted, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\aravind.pdf, is_directory=False
+2025-07-16 20:40:02,221 - DEBUG - Tracked deletion of aravind.pdf for rename detection
+2025-07-16 20:40:02,221 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.pdf, is_directory=False
+2025-07-16 20:40:02,221 - INFO - Detected create event for aravind.pdf in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16
+2025-07-16 20:40:02,221 - INFO - Skipped aravind.pdf: already in correct folder Documents
+2025-07-16 20:40:02,228 - DEBUG - Successfully processed aravind.pdf: Skipped aravind.pdf: already in correct folder Documents
+2025-07-16 20:40:02,228 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16, is_directory=True
+2025-07-16 20:40:11,506 - DEBUG - Received event: type=moved, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.pdf, is_directory=False
+2025-07-16 20:40:11,507 - DEBUG - Processing moved event: src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.pdf, dest_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.rar, is_directory=False
+2025-07-16 20:40:11,507 - INFO - Detected rename event for aravind.rar (from aravind.pdf) in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16
+2025-07-16 20:40:11,507 - DEBUG - Attempt 1: Checking file C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.rar
+2025-07-16 20:40:11,507 - INFO - Processing aravind.rar: current=c:\users\dell\downloads\fileorganizer_fresh\testfresh\documents\2025-07-16, expected=c:\users\dell\downloads\fileorganizer_fresh\testfresh\archives, root=c:\users\dell\downloads\fileorganizer_fresh\testfresh
+2025-07-16 20:40:11,511 - INFO - Moved aravind.rar to C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16\aravind.rar
+2025-07-16 20:40:11,517 - DEBUG - Successfully processed aravind.rar: Renamed aravind.pdf to aravind.rar: Moved aravind.rar to Archives/2025-07-16
+2025-07-16 20:40:11,517 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16, is_directory=True
+2025-07-16 20:40:11,517 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives, is_directory=True
+2025-07-16 20:40:11,526 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16, is_directory=True
+2025-07-16 20:40:11,533 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16, is_directory=True
+2025-07-16 20:40:11,549 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives, is_directory=True
+2025-07-16 20:40:11,549 - DEBUG - Received event: type=deleted, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16\aravind.rar, is_directory=False
+2025-07-16 20:40:11,549 - DEBUG - Tracked deletion of aravind.rar for rename detection
+2025-07-16 20:40:11,549 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16\aravind.rar, is_directory=False
+2025-07-16 20:40:11,550 - INFO - Detected create event for aravind.rar in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16
+2025-07-16 20:40:11,550 - INFO - Skipped aravind.rar: already in correct folder Archives
+2025-07-16 20:40:11,556 - DEBUG - Successfully processed aravind.rar: Skipped aravind.rar: already in correct folder Archives
+2025-07-16 20:40:11,556 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Archives\2025-07-16, is_directory=True
+2025-07-16 20:40:12,109 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Documents\2025-07-16, is_directory=True
+2025-07-16 20:42:44,649 - INFO - No config file found at C:\Users\Dell\AppData\Local\Temp\_MEI91002\categories.json, using default config
+2025-07-16 20:42:44,650 - INFO - Saved config to C:\Users\Dell\AppData\Local\Temp\_MEI91002\categories.json
+2025-07-16 20:42:44,650 - INFO - Configuration loaded successfully
+2025-07-16 20:42:44,694 - INFO - Start on Boot checkbox initialized
+2025-07-16 20:42:44,698 - INFO - Successfully set window icon: C:\Users\Dell\AppData\Local\Temp\_MEI91002\my_icon.ico
+2025-07-16 20:42:44,699 - INFO - Applied appearance mode: system
+2025-07-16 20:42:44,707 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 20:42:44,707 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 20:42:44,707 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 20:42:44,707 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 20:42:44,707 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 20:42:44,707 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 20:42:44,707 - INFO - Successfully loaded my_icon.png
+2025-07-16 20:42:44,708 - INFO - System tray icon created
+2025-07-16 20:42:44,715 - DEBUG - Importing AvifImagePlugin
+2025-07-16 20:42:44,723 - DEBUG - Importing BlpImagePlugin
+2025-07-16 20:42:44,723 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/file-organizer/test (recursive=True, exclusions=[], organize_by_date=False)
+2025-07-16 20:42:44,724 - DEBUG - Importing BmpImagePlugin
+2025-07-16 20:42:44,724 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 20:42:44,725 - INFO - Started file watcher for C:/Users/Dell/Downloads/file-organizer/test (recursive=True)
+2025-07-16 20:42:44,725 - DEBUG - Importing CurImagePlugin
+2025-07-16 20:42:44,725 - DEBUG - Importing DcxImagePlugin
+2025-07-16 20:42:44,726 - DEBUG - Importing DdsImagePlugin
+2025-07-16 20:42:44,728 - DEBUG - Importing EpsImagePlugin
+2025-07-16 20:42:44,729 - DEBUG - Importing FitsImagePlugin
+2025-07-16 20:42:44,730 - DEBUG - Importing FliImagePlugin
+2025-07-16 20:42:44,731 - DEBUG - Importing FpxImagePlugin
+2025-07-16 20:42:44,731 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 20:42:44,732 - DEBUG - Importing FtexImagePlugin
+2025-07-16 20:42:44,732 - DEBUG - Importing GbrImagePlugin
+2025-07-16 20:42:44,732 - DEBUG - Importing GifImagePlugin
+2025-07-16 20:42:44,732 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 20:42:44,732 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 20:42:44,733 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 20:42:44,734 - DEBUG - Importing IcoImagePlugin
+2025-07-16 20:42:44,734 - DEBUG - Importing ImImagePlugin
+2025-07-16 20:42:44,735 - DEBUG - Importing ImtImagePlugin
+2025-07-16 20:42:44,735 - DEBUG - Importing IptcImagePlugin
+2025-07-16 20:42:44,736 - DEBUG - Importing JpegImagePlugin
+2025-07-16 20:42:44,736 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 20:42:44,736 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 20:42:44,737 - DEBUG - Importing MicImagePlugin
+2025-07-16 20:42:44,737 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 20:42:44,737 - DEBUG - Importing MpegImagePlugin
+2025-07-16 20:42:44,737 - DEBUG - Importing MpoImagePlugin
+2025-07-16 20:42:44,748 - DEBUG - Importing MspImagePlugin
+2025-07-16 20:42:44,749 - DEBUG - Importing PalmImagePlugin
+2025-07-16 20:42:44,749 - DEBUG - Importing PcdImagePlugin
+2025-07-16 20:42:44,750 - DEBUG - Importing PcxImagePlugin
+2025-07-16 20:42:44,750 - DEBUG - Importing PdfImagePlugin
+2025-07-16 20:42:44,756 - DEBUG - Importing PixarImagePlugin
+2025-07-16 20:42:44,756 - DEBUG - Importing PngImagePlugin
+2025-07-16 20:42:44,756 - DEBUG - Importing PpmImagePlugin
+2025-07-16 20:42:44,756 - DEBUG - Importing PsdImagePlugin
+2025-07-16 20:42:44,757 - DEBUG - Importing QoiImagePlugin
+2025-07-16 20:42:44,757 - DEBUG - Importing SgiImagePlugin
+2025-07-16 20:42:44,758 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 20:42:44,758 - DEBUG - Importing SunImagePlugin
+2025-07-16 20:42:44,759 - DEBUG - Importing TgaImagePlugin
+2025-07-16 20:42:44,759 - DEBUG - Importing TiffImagePlugin
+2025-07-16 20:42:44,759 - DEBUG - Importing WebPImagePlugin
+2025-07-16 20:42:44,761 - DEBUG - Importing WmfImagePlugin
+2025-07-16 20:42:44,761 - DEBUG - Importing XbmImagePlugin
+2025-07-16 20:42:44,763 - DEBUG - Importing XpmImagePlugin
+2025-07-16 20:42:44,763 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 20:42:44,834 - DEBUG - Initialized handler for C:/Users/Dell/OneDrive/Desktop/test (recursive=True, exclusions=[], organize_by_date=False)
+2025-07-16 20:42:44,835 - INFO - Started file watcher for C:/Users/Dell/OneDrive/Desktop/test (recursive=True)
+2025-07-16 20:42:57,597 - INFO - Saved config to C:\Users\Dell\AppData\Local\Temp\_MEI91002\categories.json
+2025-07-16 20:42:57,619 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/file-organizer/test
+2025-07-16 20:42:57,635 - INFO - File organizer handler stopped for C:/Users/Dell/OneDrive/Desktop/test
+2025-07-16 20:42:57,635 - INFO - Stopped all file watchers
+2025-07-16 20:42:57,642 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/file-organizer/test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:42:57,643 - INFO - Started file watcher for C:/Users/Dell/Downloads/file-organizer/test (recursive=True)
+2025-07-16 20:42:57,658 - DEBUG - Initialized handler for C:/Users/Dell/OneDrive/Desktop/test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:42:57,659 - INFO - Started file watcher for C:/Users/Dell/OneDrive/Desktop/test (recursive=True)
+2025-07-16 20:42:58,667 - INFO - Saved config to C:\Users\Dell\AppData\Local\Temp\_MEI91002\categories.json
+2025-07-16 20:42:58,693 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/file-organizer/test
+2025-07-16 20:42:58,708 - INFO - File organizer handler stopped for C:/Users/Dell/OneDrive/Desktop/test
+2025-07-16 20:42:58,708 - INFO - Stopped all file watchers
+2025-07-16 20:42:58,715 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/file-organizer/test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:42:58,718 - INFO - Started file watcher for C:/Users/Dell/Downloads/file-organizer/test (recursive=True)
+2025-07-16 20:42:58,725 - DEBUG - Initialized handler for C:/Users/Dell/OneDrive/Desktop/test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:42:58,726 - INFO - Started file watcher for C:/Users/Dell/OneDrive/Desktop/test (recursive=True)
+2025-07-16 20:47:51,818 - INFO - File organizer handler stopped for C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 20:47:51,834 - INFO - File organizer handler stopped for C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:47:51,849 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/testfresh
+2025-07-16 20:47:51,864 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh
+2025-07-16 20:47:51,864 - INFO - Stopped all file watchers
+2025-07-16 20:52:57,224 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 2 monitored folders
+2025-07-16 20:52:57,224 - INFO - Configuration loaded successfully
+2025-07-16 20:52:57,282 - INFO - Start on Boot checkbox initialized
+2025-07-16 20:52:57,286 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 20:52:57,287 - INFO - Applied appearance mode: system
+2025-07-16 20:52:57,296 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 20:52:57,296 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 20:52:57,296 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 20:52:57,296 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 20:52:57,296 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 20:52:57,296 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 20:52:57,296 - INFO - Successfully loaded my_icon.png
+2025-07-16 20:52:57,298 - INFO - System tray icon created
+2025-07-16 20:52:57,306 - DEBUG - Importing AvifImagePlugin
+2025-07-16 20:52:57,308 - DEBUG - Importing BlpImagePlugin
+2025-07-16 20:52:57,311 - DEBUG - Importing BmpImagePlugin
+2025-07-16 20:52:57,311 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 20:52:57,312 - DEBUG - Importing CurImagePlugin
+2025-07-16 20:52:57,313 - DEBUG - Importing DcxImagePlugin
+2025-07-16 20:52:57,314 - DEBUG - Importing DdsImagePlugin
+2025-07-16 20:52:57,318 - DEBUG - Importing EpsImagePlugin
+2025-07-16 20:52:57,319 - DEBUG - Importing FitsImagePlugin
+2025-07-16 20:52:57,321 - DEBUG - Importing FliImagePlugin
+2025-07-16 20:52:57,323 - DEBUG - Importing FpxImagePlugin
+2025-07-16 20:52:57,324 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:52:57,326 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:52:57,326 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 20:52:57,326 - DEBUG - Importing FtexImagePlugin
+2025-07-16 20:52:57,327 - DEBUG - Importing GbrImagePlugin
+2025-07-16 20:52:57,328 - DEBUG - Importing GifImagePlugin
+2025-07-16 20:52:57,328 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 20:52:57,328 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 20:52:57,330 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 20:52:57,332 - DEBUG - Importing IcoImagePlugin
+2025-07-16 20:52:57,333 - DEBUG - Importing ImImagePlugin
+2025-07-16 20:52:57,333 - DEBUG - Importing ImtImagePlugin
+2025-07-16 20:52:57,334 - DEBUG - Importing IptcImagePlugin
+2025-07-16 20:52:57,335 - DEBUG - Importing JpegImagePlugin
+2025-07-16 20:52:57,335 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 20:52:57,335 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 20:52:57,336 - DEBUG - Importing MicImagePlugin
+2025-07-16 20:52:57,337 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 20:52:57,337 - DEBUG - Importing MpegImagePlugin
+2025-07-16 20:52:57,338 - DEBUG - Importing MpoImagePlugin
+2025-07-16 20:52:57,352 - DEBUG - Importing MspImagePlugin
+2025-07-16 20:52:57,352 - DEBUG - Importing PalmImagePlugin
+2025-07-16 20:52:57,355 - DEBUG - Importing PcdImagePlugin
+2025-07-16 20:52:57,356 - DEBUG - Importing PcxImagePlugin
+2025-07-16 20:52:57,356 - DEBUG - Importing PdfImagePlugin
+2025-07-16 20:52:57,365 - DEBUG - Importing PixarImagePlugin
+2025-07-16 20:52:57,366 - DEBUG - Importing PngImagePlugin
+2025-07-16 20:52:57,366 - DEBUG - Importing PpmImagePlugin
+2025-07-16 20:52:57,366 - DEBUG - Importing PsdImagePlugin
+2025-07-16 20:52:57,367 - DEBUG - Importing QoiImagePlugin
+2025-07-16 20:52:57,368 - DEBUG - Importing SgiImagePlugin
+2025-07-16 20:52:57,369 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 20:52:57,370 - DEBUG - Importing SunImagePlugin
+2025-07-16 20:52:57,371 - DEBUG - Importing TgaImagePlugin
+2025-07-16 20:52:57,372 - DEBUG - Importing TiffImagePlugin
+2025-07-16 20:52:57,372 - DEBUG - Importing WebPImagePlugin
+2025-07-16 20:52:57,375 - DEBUG - Importing WmfImagePlugin
+2025-07-16 20:52:57,376 - DEBUG - Importing XbmImagePlugin
+2025-07-16 20:52:57,379 - DEBUG - Importing XpmImagePlugin
+2025-07-16 20:52:57,380 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 20:52:57,451 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:52:57,452 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:58:09,181 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 2 monitored folders
+2025-07-16 20:58:09,181 - INFO - Configuration loaded successfully
+2025-07-16 20:58:09,226 - INFO - Start on Boot checkbox initialized
+2025-07-16 20:58:09,228 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 20:58:09,229 - INFO - Applied appearance mode: system
+2025-07-16 20:58:09,236 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 20:58:09,236 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 20:58:09,236 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 20:58:09,236 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 20:58:09,236 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 20:58:09,236 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 20:58:09,236 - INFO - Successfully loaded my_icon.png
+2025-07-16 20:58:09,236 - INFO - System tray icon created
+2025-07-16 20:58:09,244 - DEBUG - Importing AvifImagePlugin
+2025-07-16 20:58:09,246 - DEBUG - Importing BlpImagePlugin
+2025-07-16 20:58:09,246 - DEBUG - Importing BmpImagePlugin
+2025-07-16 20:58:09,246 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 20:58:09,248 - DEBUG - Importing CurImagePlugin
+2025-07-16 20:58:09,248 - DEBUG - Importing DcxImagePlugin
+2025-07-16 20:58:09,249 - DEBUG - Importing DdsImagePlugin
+2025-07-16 20:58:09,251 - DEBUG - Importing EpsImagePlugin
+2025-07-16 20:58:09,252 - DEBUG - Importing FitsImagePlugin
+2025-07-16 20:58:09,253 - DEBUG - Importing FliImagePlugin
+2025-07-16 20:58:09,254 - DEBUG - Importing FpxImagePlugin
+2025-07-16 20:58:09,254 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:58:09,255 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:58:09,255 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 20:58:09,255 - DEBUG - Importing FtexImagePlugin
+2025-07-16 20:58:09,256 - DEBUG - Importing GbrImagePlugin
+2025-07-16 20:58:09,256 - DEBUG - Importing GifImagePlugin
+2025-07-16 20:58:09,256 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 20:58:09,256 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 20:58:09,258 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 20:58:09,259 - DEBUG - Importing IcoImagePlugin
+2025-07-16 20:58:09,260 - DEBUG - Importing ImImagePlugin
+2025-07-16 20:58:09,260 - DEBUG - Importing ImtImagePlugin
+2025-07-16 20:58:09,260 - DEBUG - Importing IptcImagePlugin
+2025-07-16 20:58:09,261 - DEBUG - Importing JpegImagePlugin
+2025-07-16 20:58:09,261 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 20:58:09,261 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 20:58:09,262 - DEBUG - Importing MicImagePlugin
+2025-07-16 20:58:09,263 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 20:58:09,263 - DEBUG - Importing MpegImagePlugin
+2025-07-16 20:58:09,264 - DEBUG - Importing MpoImagePlugin
+2025-07-16 20:58:09,271 - DEBUG - Importing MspImagePlugin
+2025-07-16 20:58:09,272 - DEBUG - Importing PalmImagePlugin
+2025-07-16 20:58:09,273 - DEBUG - Importing PcdImagePlugin
+2025-07-16 20:58:09,273 - DEBUG - Importing PcxImagePlugin
+2025-07-16 20:58:09,273 - DEBUG - Importing PdfImagePlugin
+2025-07-16 20:58:09,278 - DEBUG - Importing PixarImagePlugin
+2025-07-16 20:58:09,279 - DEBUG - Importing PngImagePlugin
+2025-07-16 20:58:09,279 - DEBUG - Importing PpmImagePlugin
+2025-07-16 20:58:09,279 - DEBUG - Importing PsdImagePlugin
+2025-07-16 20:58:09,281 - DEBUG - Importing QoiImagePlugin
+2025-07-16 20:58:09,282 - DEBUG - Importing SgiImagePlugin
+2025-07-16 20:58:09,283 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 20:58:09,283 - DEBUG - Importing SunImagePlugin
+2025-07-16 20:58:09,283 - DEBUG - Importing TgaImagePlugin
+2025-07-16 20:58:09,284 - DEBUG - Importing TiffImagePlugin
+2025-07-16 20:58:09,284 - DEBUG - Importing WebPImagePlugin
+2025-07-16 20:58:09,285 - DEBUG - Importing WmfImagePlugin
+2025-07-16 20:58:09,286 - DEBUG - Importing XbmImagePlugin
+2025-07-16 20:58:09,286 - DEBUG - Importing XpmImagePlugin
+2025-07-16 20:58:09,288 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 20:58:09,370 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:58:09,371 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:58:48,325 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/file-organizer/test
+2025-07-16 20:58:48,341 - INFO - File organizer handler stopped for C:/Users/Dell/OneDrive/Desktop/test
+2025-07-16 20:58:48,342 - INFO - Stopped all file watchers
+2025-07-16 20:59:00,138 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 2 monitored folders
+2025-07-16 20:59:00,138 - INFO - Configuration loaded successfully
+2025-07-16 20:59:00,181 - INFO - Start on Boot checkbox initialized
+2025-07-16 20:59:00,184 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 20:59:00,184 - INFO - Applied appearance mode: system
+2025-07-16 20:59:00,191 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 20:59:00,191 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 20:59:00,191 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 20:59:00,191 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 20:59:00,191 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 20:59:00,191 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 20:59:00,191 - INFO - Successfully loaded my_icon.png
+2025-07-16 20:59:00,192 - INFO - System tray icon created
+2025-07-16 20:59:00,200 - DEBUG - Importing AvifImagePlugin
+2025-07-16 20:59:00,201 - DEBUG - Importing BlpImagePlugin
+2025-07-16 20:59:00,202 - DEBUG - Importing BmpImagePlugin
+2025-07-16 20:59:00,202 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 20:59:00,202 - DEBUG - Importing CurImagePlugin
+2025-07-16 20:59:00,203 - DEBUG - Importing DcxImagePlugin
+2025-07-16 20:59:00,203 - DEBUG - Importing DdsImagePlugin
+2025-07-16 20:59:00,206 - DEBUG - Importing EpsImagePlugin
+2025-07-16 20:59:00,206 - DEBUG - Importing FitsImagePlugin
+2025-07-16 20:59:00,207 - DEBUG - Importing FliImagePlugin
+2025-07-16 20:59:00,208 - DEBUG - Importing FpxImagePlugin
+2025-07-16 20:59:00,208 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 20:59:00,209 - DEBUG - Importing FtexImagePlugin
+2025-07-16 20:59:00,209 - DEBUG - Importing GbrImagePlugin
+2025-07-16 20:59:00,209 - DEBUG - Importing GifImagePlugin
+2025-07-16 20:59:00,210 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:59:00,210 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 20:59:00,210 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:59:00,210 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 20:59:00,212 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 20:59:00,213 - DEBUG - Importing IcoImagePlugin
+2025-07-16 20:59:00,213 - DEBUG - Importing ImImagePlugin
+2025-07-16 20:59:00,214 - DEBUG - Importing ImtImagePlugin
+2025-07-16 20:59:00,214 - DEBUG - Importing IptcImagePlugin
+2025-07-16 20:59:00,215 - DEBUG - Importing JpegImagePlugin
+2025-07-16 20:59:00,215 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 20:59:00,215 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 20:59:00,215 - DEBUG - Importing MicImagePlugin
+2025-07-16 20:59:00,216 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 20:59:00,216 - DEBUG - Importing MpegImagePlugin
+2025-07-16 20:59:00,216 - DEBUG - Importing MpoImagePlugin
+2025-07-16 20:59:00,225 - DEBUG - Importing MspImagePlugin
+2025-07-16 20:59:00,226 - DEBUG - Importing PalmImagePlugin
+2025-07-16 20:59:00,226 - DEBUG - Importing PcdImagePlugin
+2025-07-16 20:59:00,227 - DEBUG - Importing PcxImagePlugin
+2025-07-16 20:59:00,227 - DEBUG - Importing PdfImagePlugin
+2025-07-16 20:59:00,232 - DEBUG - Importing PixarImagePlugin
+2025-07-16 20:59:00,233 - DEBUG - Importing PngImagePlugin
+2025-07-16 20:59:00,234 - DEBUG - Importing PpmImagePlugin
+2025-07-16 20:59:00,234 - DEBUG - Importing PsdImagePlugin
+2025-07-16 20:59:00,234 - DEBUG - Importing QoiImagePlugin
+2025-07-16 20:59:00,235 - DEBUG - Importing SgiImagePlugin
+2025-07-16 20:59:00,236 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 20:59:00,236 - DEBUG - Importing SunImagePlugin
+2025-07-16 20:59:00,236 - DEBUG - Importing TgaImagePlugin
+2025-07-16 20:59:00,238 - DEBUG - Importing TiffImagePlugin
+2025-07-16 20:59:00,238 - DEBUG - Importing WebPImagePlugin
+2025-07-16 20:59:00,239 - DEBUG - Importing WmfImagePlugin
+2025-07-16 20:59:00,240 - DEBUG - Importing XbmImagePlugin
+2025-07-16 20:59:00,241 - DEBUG - Importing XpmImagePlugin
+2025-07-16 20:59:00,241 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 20:59:00,325 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=0)
+2025-07-16 20:59:00,326 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:59:20,683 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Archives, is_directory=True
+2025-07-16 20:59:20,684 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Archives\2025-07-15, is_directory=True
+2025-07-16 20:59:20,684 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Code, is_directory=True
+2025-07-16 20:59:20,684 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents, is_directory=True
+2025-07-16 20:59:20,684 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-07-15, is_directory=True
+2025-07-16 20:59:20,685 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-07-16, is_directory=True
+2025-07-16 20:59:20,685 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Images, is_directory=True
+2025-07-16 20:59:20,685 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Images\2025-07-15, is_directory=True
+2025-07-16 20:59:20,685 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Others, is_directory=True
+2025-07-16 20:59:20,687 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Others\2025-07-15, is_directory=True
+2025-07-16 20:59:20,688 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Others\2025-07-16, is_directory=True
+2025-07-16 20:59:20,688 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Videos, is_directory=True
+2025-07-16 20:59:23,991 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\171  BDA HOLIDAY ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:23,991 - INFO - Detected create event for 171  BDA HOLIDAY ASSIGNMENT.pdf in C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:59:23,991 - INFO - Processing 171  BDA HOLIDAY ASSIGNMENT.pdf: current=c:\users\dell\onedrive\desktop\test, expected=c:\users\dell\onedrive\desktop\test\documents, root=c:\users\dell\onedrive\desktop\test
+2025-07-16 20:59:23,993 - INFO - Moved 171  BDA HOLIDAY ASSIGNMENT.pdf to C:\Users\Dell\OneDrive\Desktop\test\Documents\171  BDA HOLIDAY ASSIGNMENT.pdf
+2025-07-16 20:59:23,997 - DEBUG - Successfully processed 171  BDA HOLIDAY ASSIGNMENT.pdf: Moved 171  BDA HOLIDAY ASSIGNMENT.pdf to Documents
+2025-07-16 20:59:23,997 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\171  BDA HOLIDAY ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:23,997 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\OneDrive\Desktop\test\171  BDA HOLIDAY ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:23,997 - DEBUG - Tracked deletion of 171  BDA HOLIDAY ASSIGNMENT.pdf for rename detection
+2025-07-16 20:59:23,997 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\171  BDA HOLIDAY ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:23,997 - INFO - Detected create event for 171  BDA HOLIDAY ASSIGNMENT.pdf in C:\Users\Dell\OneDrive\Desktop\test\Documents
+2025-07-16 20:59:23,997 - INFO - Skipped 171  BDA HOLIDAY ASSIGNMENT.pdf: already in correct folder Documents
+2025-07-16 20:59:24,001 - DEBUG - Successfully processed 171  BDA HOLIDAY ASSIGNMENT.pdf: Skipped 171  BDA HOLIDAY ASSIGNMENT.pdf: already in correct folder Documents
+2025-07-16 20:59:24,001 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents, is_directory=True
+2025-07-16 20:59:27,431 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\171  BDA HOLIDAY ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:33,697 - INFO - Saved config to C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json
+2025-07-16 20:59:33,715 - INFO - File organizer handler stopped for C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 20:59:33,730 - INFO - File organizer handler stopped for C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:59:33,731 - INFO - Stopped all file watchers
+2025-07-16 20:59:33,737 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:59:33,739 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 20:59:33,752 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 20:59:33,753 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 20:59:42,753 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\171 BDA ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:42,754 - INFO - Detected create event for 171 BDA ASSIGNMENT.pdf in C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 20:59:42,754 - INFO - Processing 171 BDA ASSIGNMENT.pdf: current=c:\users\dell\onedrive\desktop\test, expected=c:\users\dell\onedrive\desktop\test\documents, root=c:\users\dell\onedrive\desktop\test
+2025-07-16 20:59:42,755 - INFO - Moved 171 BDA ASSIGNMENT.pdf to C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\171 BDA ASSIGNMENT.pdf
+2025-07-16 20:59:42,764 - DEBUG - Successfully processed 171 BDA ASSIGNMENT.pdf: Moved 171 BDA ASSIGNMENT.pdf to Documents/2025-01-24
+2025-07-16 20:59:42,764 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\171 BDA ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:42,764 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 20:59:42,772 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents, is_directory=True
+2025-07-16 20:59:42,772 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\OneDrive\Desktop\test\171 BDA ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:42,772 - DEBUG - Tracked deletion of 171 BDA ASSIGNMENT.pdf for rename detection
+2025-07-16 20:59:42,772 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\171 BDA ASSIGNMENT.pdf, is_directory=False
+2025-07-16 20:59:42,772 - INFO - Detected create event for 171 BDA ASSIGNMENT.pdf in C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24
+2025-07-16 20:59:42,772 - INFO - Skipped 171 BDA ASSIGNMENT.pdf: already in correct folder Documents
+2025-07-16 20:59:42,779 - DEBUG - Successfully processed 171 BDA ASSIGNMENT.pdf: Skipped 171 BDA ASSIGNMENT.pdf: already in correct folder Documents
+2025-07-16 20:59:42,779 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 20:59:44,922 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 20:59:44,931 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 20:59:44,932 - INFO - Detected create event for desktop.ini in C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24
+2025-07-16 20:59:44,932 - INFO - Attempt 1: Skipped desktop.ini: file not ready
+2025-07-16 20:59:47,946 - INFO - Attempt 2: Skipped desktop.ini: file not ready
+2025-07-16 20:59:50,959 - INFO - Attempt 3: Skipped desktop.ini: file not ready
+2025-07-16 20:59:53,981 - INFO - Attempt 4: Skipped desktop.ini: file not ready
+2025-07-16 20:59:56,997 - INFO - Attempt 5: Skipped desktop.ini: file not ready
+2025-07-16 21:00:00,015 - WARNING - Failed to process created file desktop.ini after 5 attempts
+2025-07-16 21:00:00,018 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:00,018 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 21:00:00,018 - DEBUG - Tracked deletion of desktop.ini for rename detection
+2025-07-16 21:00:00,018 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:00,018 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 21:00:00,018 - INFO - Detected create event for desktop.ini in C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24
+2025-07-16 21:00:00,018 - INFO - Attempt 1: Skipped desktop.ini: file not ready
+2025-07-16 21:00:03,025 - INFO - Attempt 2: Skipped desktop.ini: file not ready
+2025-07-16 21:00:06,040 - INFO - Attempt 3: Skipped desktop.ini: file not ready
+2025-07-16 21:00:09,051 - INFO - Attempt 4: Skipped desktop.ini: file not ready
+2025-07-16 21:00:12,063 - INFO - Attempt 5: Skipped desktop.ini: file not ready
+2025-07-16 21:00:13,887 - INFO - No config file found at C:\Users\Dell\AppData\Local\Temp\_MEI137402\categories.json, using default config
+2025-07-16 21:00:13,889 - INFO - Saved config to C:\Users\Dell\AppData\Local\Temp\_MEI137402\categories.json
+2025-07-16 21:00:13,889 - INFO - Configuration loaded successfully
+2025-07-16 21:00:13,959 - INFO - Start on Boot checkbox initialized
+2025-07-16 21:00:13,964 - INFO - Successfully set window icon: C:\Users\Dell\AppData\Local\Temp\_MEI137402\my_icon.ico
+2025-07-16 21:00:13,964 - INFO - Applied appearance mode: system
+2025-07-16 21:00:13,975 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 21:00:13,975 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 21:00:13,975 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 21:00:13,975 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 21:00:13,975 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 21:00:13,975 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 21:00:13,975 - INFO - Successfully loaded my_icon.png
+2025-07-16 21:00:13,976 - INFO - System tray icon created
+2025-07-16 21:00:13,985 - DEBUG - Importing AvifImagePlugin
+2025-07-16 21:00:13,996 - DEBUG - Importing BlpImagePlugin
+2025-07-16 21:00:13,996 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/file-organizer/test (recursive=True, exclusions=[], organize_by_date=False)
+2025-07-16 21:00:13,997 - DEBUG - Importing BmpImagePlugin
+2025-07-16 21:00:13,997 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 21:00:13,998 - DEBUG - Importing CurImagePlugin
+2025-07-16 21:00:13,998 - INFO - Started file watcher for C:/Users/Dell/Downloads/file-organizer/test (recursive=True)
+2025-07-16 21:00:13,998 - DEBUG - Importing DcxImagePlugin
+2025-07-16 21:00:14,000 - DEBUG - Importing DdsImagePlugin
+2025-07-16 21:00:14,003 - DEBUG - Importing EpsImagePlugin
+2025-07-16 21:00:14,004 - DEBUG - Importing FitsImagePlugin
+2025-07-16 21:00:14,006 - DEBUG - Importing FliImagePlugin
+2025-07-16 21:00:14,006 - DEBUG - Importing FpxImagePlugin
+2025-07-16 21:00:14,009 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 21:00:14,009 - DEBUG - Importing FtexImagePlugin
+2025-07-16 21:00:14,010 - DEBUG - Importing GbrImagePlugin
+2025-07-16 21:00:14,010 - DEBUG - Importing GifImagePlugin
+2025-07-16 21:00:14,010 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 21:00:14,011 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 21:00:14,011 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 21:00:14,012 - DEBUG - Importing IcoImagePlugin
+2025-07-16 21:00:14,013 - DEBUG - Importing ImImagePlugin
+2025-07-16 21:00:14,014 - DEBUG - Importing ImtImagePlugin
+2025-07-16 21:00:14,015 - DEBUG - Importing IptcImagePlugin
+2025-07-16 21:00:14,016 - DEBUG - Importing JpegImagePlugin
+2025-07-16 21:00:14,016 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 21:00:14,016 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 21:00:14,017 - DEBUG - Importing MicImagePlugin
+2025-07-16 21:00:14,017 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 21:00:14,017 - DEBUG - Importing MpegImagePlugin
+2025-07-16 21:00:14,018 - DEBUG - Importing MpoImagePlugin
+2025-07-16 21:00:14,030 - DEBUG - Importing MspImagePlugin
+2025-07-16 21:00:14,031 - DEBUG - Importing PalmImagePlugin
+2025-07-16 21:00:14,032 - DEBUG - Importing PcdImagePlugin
+2025-07-16 21:00:14,033 - DEBUG - Importing PcxImagePlugin
+2025-07-16 21:00:14,033 - DEBUG - Importing PdfImagePlugin
+2025-07-16 21:00:14,041 - DEBUG - Importing PixarImagePlugin
+2025-07-16 21:00:14,042 - DEBUG - Importing PngImagePlugin
+2025-07-16 21:00:14,042 - DEBUG - Importing PpmImagePlugin
+2025-07-16 21:00:14,042 - DEBUG - Importing PsdImagePlugin
+2025-07-16 21:00:14,042 - DEBUG - Importing QoiImagePlugin
+2025-07-16 21:00:14,043 - DEBUG - Importing SgiImagePlugin
+2025-07-16 21:00:14,044 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 21:00:14,044 - DEBUG - Importing SunImagePlugin
+2025-07-16 21:00:14,045 - DEBUG - Importing TgaImagePlugin
+2025-07-16 21:00:14,045 - DEBUG - Importing TiffImagePlugin
+2025-07-16 21:00:14,045 - DEBUG - Importing WebPImagePlugin
+2025-07-16 21:00:14,047 - DEBUG - Importing WmfImagePlugin
+2025-07-16 21:00:14,049 - DEBUG - Importing XbmImagePlugin
+2025-07-16 21:00:14,050 - DEBUG - Importing XpmImagePlugin
+2025-07-16 21:00:14,051 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 21:00:14,119 - DEBUG - Initialized handler for C:/Users/Dell/OneDrive/Desktop/test (recursive=True, exclusions=[], organize_by_date=False)
+2025-07-16 21:00:14,120 - INFO - Started file watcher for C:/Users/Dell/OneDrive/Desktop/test (recursive=True)
+2025-07-16 21:00:15,076 - WARNING - Failed to process created file desktop.ini after 5 attempts
+2025-07-16 21:00:15,080 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:15,080 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 21:00:15,080 - DEBUG - Tracked deletion of desktop.ini for rename detection
+2025-07-16 21:00:15,080 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:15,080 - DEBUG - Received event: type=created, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 21:00:15,080 - INFO - Detected create event for desktop.ini in C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24
+2025-07-16 21:00:15,080 - INFO - Attempt 1: Skipped desktop.ini: file not ready
+2025-07-16 21:00:18,096 - INFO - Attempt 2: Skipped desktop.ini: file not ready
+2025-07-16 21:00:21,107 - INFO - Attempt 3: Skipped desktop.ini: file not ready
+2025-07-16 21:00:24,140 - INFO - Attempt 4: Skipped desktop.ini: file not ready
+2025-07-16 21:00:27,161 - INFO - Attempt 5: Skipped desktop.ini: file not ready
+2025-07-16 21:00:30,175 - WARNING - Failed to process created file desktop.ini after 5 attempts
+2025-07-16 21:00:30,179 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:30,179 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\desktop.ini, is_directory=False
+2025-07-16 21:00:30,179 - DEBUG - Tracked deletion of desktop.ini for rename detection
+2025-07-16 21:00:30,179 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24, is_directory=True
+2025-07-16 21:00:30,179 - DEBUG - Received event: type=modified, src_path=C:\Users\Dell\OneDrive\Desktop\test\Documents\2025-01-24\171 BDA ASSIGNMENT.pdf, is_directory=False
+2025-07-16 21:00:55,964 - INFO - File organizer handler stopped for C:/Users/Dell/Downloads/file-organizer/test
+2025-07-16 21:00:55,980 - INFO - File organizer handler stopped for C:/Users/Dell/OneDrive/Desktop/test
+2025-07-16 21:00:55,980 - INFO - Stopped all file watchers
+2025-07-16 21:01:16,097 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 2 monitored folders
+2025-07-16 21:01:16,098 - INFO - Configuration loaded successfully
+2025-07-16 21:01:16,142 - INFO - Start on Boot checkbox initialized
+2025-07-16 21:01:16,145 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 21:01:16,145 - INFO - Applied appearance mode: system
+2025-07-16 21:01:16,153 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 21:01:16,153 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 21:01:16,153 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 21:01:16,153 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 21:01:16,153 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 21:01:16,153 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 21:01:16,154 - INFO - Successfully loaded my_icon.png
+2025-07-16 21:01:16,154 - INFO - System tray icon created
+2025-07-16 21:01:16,159 - DEBUG - Importing AvifImagePlugin
+2025-07-16 21:01:16,160 - DEBUG - Importing BlpImagePlugin
+2025-07-16 21:01:16,161 - DEBUG - Importing BmpImagePlugin
+2025-07-16 21:01:16,161 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 21:01:16,162 - DEBUG - Importing CurImagePlugin
+2025-07-16 21:01:16,162 - DEBUG - Importing DcxImagePlugin
+2025-07-16 21:01:16,163 - DEBUG - Importing DdsImagePlugin
+2025-07-16 21:01:16,165 - DEBUG - Importing EpsImagePlugin
+2025-07-16 21:01:16,166 - DEBUG - Importing FitsImagePlugin
+2025-07-16 21:01:16,167 - DEBUG - Importing FliImagePlugin
+2025-07-16 21:01:16,168 - DEBUG - Importing FpxImagePlugin
+2025-07-16 21:01:16,169 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:01:16,169 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 21:01:16,169 - DEBUG - Importing FtexImagePlugin
+2025-07-16 21:01:16,169 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 21:01:16,170 - DEBUG - Importing GbrImagePlugin
+2025-07-16 21:01:16,170 - DEBUG - Importing GifImagePlugin
+2025-07-16 21:01:16,170 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 21:01:16,171 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 21:01:16,171 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 21:01:16,173 - DEBUG - Importing IcoImagePlugin
+2025-07-16 21:01:16,173 - DEBUG - Importing ImImagePlugin
+2025-07-16 21:01:16,173 - DEBUG - Importing ImtImagePlugin
+2025-07-16 21:01:16,174 - DEBUG - Importing IptcImagePlugin
+2025-07-16 21:01:16,174 - DEBUG - Importing JpegImagePlugin
+2025-07-16 21:01:16,174 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 21:01:16,174 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 21:01:16,174 - DEBUG - Importing MicImagePlugin
+2025-07-16 21:01:16,175 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 21:01:16,175 - DEBUG - Importing MpegImagePlugin
+2025-07-16 21:01:16,177 - DEBUG - Importing MpoImagePlugin
+2025-07-16 21:01:16,189 - DEBUG - Importing MspImagePlugin
+2025-07-16 21:01:16,190 - DEBUG - Importing PalmImagePlugin
+2025-07-16 21:01:16,191 - DEBUG - Importing PcdImagePlugin
+2025-07-16 21:01:16,192 - DEBUG - Importing PcxImagePlugin
+2025-07-16 21:01:16,192 - DEBUG - Importing PdfImagePlugin
+2025-07-16 21:01:16,200 - DEBUG - Importing PixarImagePlugin
+2025-07-16 21:01:16,201 - DEBUG - Importing PngImagePlugin
+2025-07-16 21:01:16,201 - DEBUG - Importing PpmImagePlugin
+2025-07-16 21:01:16,201 - DEBUG - Importing PsdImagePlugin
+2025-07-16 21:01:16,202 - DEBUG - Importing QoiImagePlugin
+2025-07-16 21:01:16,202 - DEBUG - Importing SgiImagePlugin
+2025-07-16 21:01:16,203 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 21:01:16,203 - DEBUG - Importing SunImagePlugin
+2025-07-16 21:01:16,203 - DEBUG - Importing TgaImagePlugin
+2025-07-16 21:01:16,204 - DEBUG - Importing TiffImagePlugin
+2025-07-16 21:01:16,204 - DEBUG - Importing WebPImagePlugin
+2025-07-16 21:01:16,205 - DEBUG - Importing WmfImagePlugin
+2025-07-16 21:01:16,206 - DEBUG - Importing XbmImagePlugin
+2025-07-16 21:01:16,207 - DEBUG - Importing XpmImagePlugin
+2025-07-16 21:01:16,209 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 21:01:16,290 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:01:16,291 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 21:01:38,652 - INFO - Saved config to C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json
+2025-07-16 21:01:38,666 - INFO - File organizer handler stopped for C:\Users\Dell\Downloads\file-organizer\test
+2025-07-16 21:01:38,681 - INFO - File organizer handler stopped for C:\Users\Dell\OneDrive\Desktop\test
+2025-07-16 21:01:38,681 - INFO - Stopped all file watchers
+2025-07-16 21:01:38,688 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:01:38,690 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 21:01:38,703 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:01:38,705 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 21:01:38,714 - DEBUG - Initialized handler for C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:01:38,716 - INFO - Started file watcher for C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh (recursive=True)
+2025-07-16 21:01:48,951 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\afaf.dhdhd, is_directory=False
+2025-07-16 21:01:48,951 - INFO - Detected create event for afaf.dhdhd in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh
+2025-07-16 21:01:48,951 - INFO - Processing afaf.dhdhd: current=c:\users\dell\downloads\fileorganizer_fresh\testfresh, expected=c:\users\dell\downloads\fileorganizer_fresh\testfresh\others, root=c:\users\dell\downloads\fileorganizer_fresh\testfresh
+2025-07-16 21:01:48,952 - INFO - Moved afaf.dhdhd to C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16\afaf.dhdhd
+2025-07-16 21:01:48,957 - DEBUG - Successfully processed afaf.dhdhd: Moved afaf.dhdhd to Others/2025-07-16
+2025-07-16 21:01:48,957 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others, is_directory=True
+2025-07-16 21:01:48,964 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16, is_directory=True
+2025-07-16 21:01:48,970 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16, is_directory=True
+2025-07-16 21:01:48,977 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16\afaf.dhdhd, is_directory=False
+2025-07-16 21:01:48,978 - INFO - Detected create event for afaf.dhdhd in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16
+2025-07-16 21:01:48,978 - INFO - Skipped afaf.dhdhd: already in correct folder Others
+2025-07-16 21:01:48,985 - DEBUG - Successfully processed afaf.dhdhd: Skipped afaf.dhdhd: already in correct folder Others
+2025-07-16 21:01:48,985 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others, is_directory=True
+2025-07-16 21:01:48,985 - DEBUG - Received event: type=deleted, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\afaf.dhdhd, is_directory=False
+2025-07-16 21:01:48,985 - DEBUG - Tracked deletion of afaf.dhdhd for rename detection
+2025-07-16 21:01:48,985 - DEBUG - Received event: type=created, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16\afaf.dhdhd, is_directory=False
+2025-07-16 21:01:48,985 - INFO - Detected create event for afaf.dhdhd in C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16
+2025-07-16 21:01:48,985 - INFO - Skipped afaf.dhdhd: already in correct folder Others
+2025-07-16 21:01:48,992 - DEBUG - Successfully processed afaf.dhdhd: Skipped afaf.dhdhd: already in correct folder Others
+2025-07-16 21:01:48,992 - DEBUG - Received event: type=modified, src_path=C:/Users/Dell/Downloads/FileOrganizer_Fresh/testFresh\Others\2025-07-16, is_directory=True
+2025-07-16 21:02:47,527 - INFO - Loaded config from C:\Users\Dell\Downloads\FileOrganizer_Fresh\categories.json with 3 monitored folders
+2025-07-16 21:02:47,527 - INFO - Configuration loaded successfully
+2025-07-16 21:02:47,572 - INFO - Start on Boot checkbox initialized
+2025-07-16 21:02:47,574 - INFO - Successfully set window icon: C:\Users\Dell\Downloads\FileOrganizer_Fresh\my_icon.ico
+2025-07-16 21:02:47,575 - INFO - Applied appearance mode: system
+2025-07-16 21:02:47,582 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-16 21:02:47,582 - DEBUG - STREAM b'sBIT' 41 4
+2025-07-16 21:02:47,582 - DEBUG - b'sBIT' 41 4 (unknown)
+2025-07-16 21:02:47,582 - DEBUG - STREAM b'pHYs' 57 9
+2025-07-16 21:02:47,582 - DEBUG - STREAM b'tEXt' 78 25
+2025-07-16 21:02:47,582 - DEBUG - STREAM b'IDAT' 115 8192
+2025-07-16 21:02:47,582 - INFO - Successfully loaded my_icon.png
+2025-07-16 21:02:47,582 - INFO - System tray icon created
+2025-07-16 21:02:47,590 - DEBUG - Importing AvifImagePlugin
+2025-07-16 21:02:47,591 - DEBUG - Importing BlpImagePlugin
+2025-07-16 21:02:47,592 - DEBUG - Importing BmpImagePlugin
+2025-07-16 21:02:47,592 - DEBUG - Importing BufrStubImagePlugin
+2025-07-16 21:02:47,592 - DEBUG - Importing CurImagePlugin
+2025-07-16 21:02:47,593 - DEBUG - Importing DcxImagePlugin
+2025-07-16 21:02:47,594 - DEBUG - Importing DdsImagePlugin
+2025-07-16 21:02:47,596 - DEBUG - Importing EpsImagePlugin
+2025-07-16 21:02:47,598 - DEBUG - Importing FitsImagePlugin
+2025-07-16 21:02:47,599 - DEBUG - Importing FliImagePlugin
+2025-07-16 21:02:47,599 - DEBUG - Importing FpxImagePlugin
+2025-07-16 21:02:47,600 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\file-organizer\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:02:47,601 - INFO - Started file watcher for C:\Users\Dell\Downloads\file-organizer\test (recursive=True)
+2025-07-16 21:02:47,601 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-07-16 21:02:47,601 - DEBUG - Importing FtexImagePlugin
+2025-07-16 21:02:47,601 - DEBUG - Importing GbrImagePlugin
+2025-07-16 21:02:47,603 - DEBUG - Importing GifImagePlugin
+2025-07-16 21:02:47,603 - DEBUG - Importing GribStubImagePlugin
+2025-07-16 21:02:47,603 - DEBUG - Importing Hdf5StubImagePlugin
+2025-07-16 21:02:47,603 - DEBUG - Importing IcnsImagePlugin
+2025-07-16 21:02:47,604 - DEBUG - Importing IcoImagePlugin
+2025-07-16 21:02:47,604 - DEBUG - Importing ImImagePlugin
+2025-07-16 21:02:47,605 - DEBUG - Importing ImtImagePlugin
+2025-07-16 21:02:47,605 - DEBUG - Importing IptcImagePlugin
+2025-07-16 21:02:47,605 - DEBUG - Importing JpegImagePlugin
+2025-07-16 21:02:47,606 - DEBUG - Importing Jpeg2KImagePlugin
+2025-07-16 21:02:47,606 - DEBUG - Importing McIdasImagePlugin
+2025-07-16 21:02:47,606 - DEBUG - Importing MicImagePlugin
+2025-07-16 21:02:47,606 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-07-16 21:02:47,607 - DEBUG - Importing MpegImagePlugin
+2025-07-16 21:02:47,607 - DEBUG - Importing MpoImagePlugin
+2025-07-16 21:02:47,616 - DEBUG - Importing MspImagePlugin
+2025-07-16 21:02:47,618 - DEBUG - Importing PalmImagePlugin
+2025-07-16 21:02:47,619 - DEBUG - Importing PcdImagePlugin
+2025-07-16 21:02:47,619 - DEBUG - Importing PcxImagePlugin
+2025-07-16 21:02:47,619 - DEBUG - Importing PdfImagePlugin
+2025-07-16 21:02:47,625 - DEBUG - Importing PixarImagePlugin
+2025-07-16 21:02:47,625 - DEBUG - Importing PngImagePlugin
+2025-07-16 21:02:47,625 - DEBUG - Importing PpmImagePlugin
+2025-07-16 21:02:47,626 - DEBUG - Importing PsdImagePlugin
+2025-07-16 21:02:47,626 - DEBUG - Importing QoiImagePlugin
+2025-07-16 21:02:47,626 - DEBUG - Importing SgiImagePlugin
+2025-07-16 21:02:47,627 - DEBUG - Importing SpiderImagePlugin
+2025-07-16 21:02:47,627 - DEBUG - Importing SunImagePlugin
+2025-07-16 21:02:47,628 - DEBUG - Importing TgaImagePlugin
+2025-07-16 21:02:47,628 - DEBUG - Importing TiffImagePlugin
+2025-07-16 21:02:47,628 - DEBUG - Importing WebPImagePlugin
+2025-07-16 21:02:47,630 - DEBUG - Importing WmfImagePlugin
+2025-07-16 21:02:47,630 - DEBUG - Importing XbmImagePlugin
+2025-07-16 21:02:47,631 - DEBUG - Importing XpmImagePlugin
+2025-07-16 21:02:47,632 - DEBUG - Importing XVThumbImagePlugin
+2025-07-16 21:02:47,721 - DEBUG - Initialized handler for C:\Users\Dell\OneDrive\Desktop\test (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:02:47,722 - INFO - Started file watcher for C:\Users\Dell\OneDrive\Desktop\test (recursive=True)
+2025-07-16 21:02:47,727 - DEBUG - Initialized handler for C:\Users\Dell\Downloads\FileOrganizer_Fresh\testFresh (recursive=True, exclusions=[], organize_by_date=1)
+2025-07-16 21:02:47,728 - INFO - Started file watcher for C:\Users\Dell\Downloads\FileOrganizer_Fresh\testFresh (recursive=True)
+2025-07-16 21:03:20,612 - DEBUG - Received event: type=deleted, src_path=C:\Users\Dell\Downloads\file-organizer\test, is_directory=True
